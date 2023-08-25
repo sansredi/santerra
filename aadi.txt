@@ -1,2 +1,4 @@
 Welcome to santerra
+Terraform simple code for variables, outputs, resources.
+
 
